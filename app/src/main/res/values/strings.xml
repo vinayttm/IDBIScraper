@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IDBI Scraper</string>
+    <string name="accessibility_service_description">IDBI Scraper</string>
+</resources>

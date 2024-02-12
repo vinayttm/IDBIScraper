@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="1600px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="1510px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px">
+    <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="1465px" android:layout_width="720px" android:layout_x="0px" android:layout_y="45px">
+      <android.webkit.WebView android:enabled="true" android:layout_height="1465px" android:layout_width="720px" android:layout_x="0px" android:layout_y="45px">
+        <android.webkit.WebView android:enabled="true" android:focusable="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px" android:text="IDBICorp">
+          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+            <android.view.View android:enabled="true" android:id="@contentData" android:layout_height="975px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+              <android.view.View android:enabled="true" android:layout_height="975px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                <android.view.View android:enabled="true" android:layout_height="114px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="114px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="114px" android:layout_width="114px" android:layout_x="0px" android:layout_y="45px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="114px" android:layout_width="313px" android:layout_x="110px" android:layout_y="45px" android:text="Mini Statement"/>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="133px" android:layout_width="88px" android:layout_x="633px" android:layout_y="45px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="133px" android:layout_width="79px" android:layout_x="633px" android:layout_y="45px"/>
+                  </android.view.View>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:layout_height="975px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="424px" android:layout_width="721px" android:layout_x="0px" android:layout_y="155px">
+                    <android.view.View android:enabled="true" android:layout_height="384px" android:layout_width="687px" android:layout_x="16px" android:layout_y="195px">
+                      <android.view.View android:enabled="true" android:layout_height="330px" android:layout_width="573px" android:layout_x="45px" android:layout_y="221px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="412px" android:layout_x="75px" android:layout_y="249px" android:text="Current Account"/>
+                        <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="244px" android:layout_x="63px" android:layout_y="350px" android:text="0456102000014650"/>
+                        <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="347px" android:layout_x="63px" android:layout_y="405px" android:text="I MASTER"/>
+                        <android.view.View android:enabled="true" android:layout_height="235px" android:layout_width="236px" android:layout_x="435px" android:layout_y="305px">
+                          <android.view.View android:enabled="true" android:layout_height="26px" android:layout_width="236px" android:layout_x="435px" android:layout_y="390px" android:text="Total Avbl Bal"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="30px" android:layout_width="236px" android:layout_x="435px" android:layout_y="420px" android:text="₹6,850.00"/>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="135px" android:layout_width="721px" android:layout_x="0px" android:layout_y="605px"/>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+            <android.view.View android:enabled="true" android:layout_height="211px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1301px">
+              <android.view.View android:enabled="true" android:layout_height="137px" android:layout_width="705px" android:layout_x="7px" android:layout_y="1357px">
+                <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="107px" android:layout_width="705px" android:layout_x="7px" android:layout_y="1372px" android:rowCount="5">
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="0" android:layout_width="144px" android:layout_x="7px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="69px" android:layout_x="45px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="144px" android:layout_x="7px" android:layout_y="1438px" android:text="Home"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="1" android:layout_width="142px" android:layout_x="148px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="70px" android:layout_x="185px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="142px" android:layout_x="148px" android:layout_y="1438px" android:text="Accounts"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="2" android:layout_width="143px" android:layout_x="288px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="105px" android:layout_width="105px" android:layout_x="309px" android:layout_y="1308px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="143px" android:layout_x="288px" android:layout_y="1440px" android:text="Pay Now"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="3" android:layout_width="142px" android:layout_x="429px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="69px" android:layout_x="465px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="142px" android:layout_x="429px" android:layout_y="1438px" android:text="Cards"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="4" android:layout_width="142px" android:layout_x="570px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="71px" android:layout_x="605px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="142px" android:layout_x="570px" android:layout_y="1438px" android:text="Services"/>
+                  </android.view.View>
+                </android.widget.ListView>
+              </android.view.View>
+            </android.view.View>
+            <android.view.View android:clickable="true" android:enabled="true" android:id="@paynowModel" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+              <android.view.View android:enabled="true" android:layout_height="-241px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                <android.view.View android:enabled="true" android:layout_height="-241px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="-260px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px" android:rowCount="6">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-825px" android:layout_row="0" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="Scan &amp; Pay"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-710px" android:layout_row="1" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="Payees"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-600px" android:layout_row="2" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="BHIM UPI"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-485px" android:layout_row="3" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="IMPS Payment"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-375px" android:layout_row="4" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="Cardless ATM"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-260px" android:layout_row="5" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="More"/>
+                  </android.widget.ListView>
+                  <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="-46px" android:layout_width="705px" android:layout_x="7px" android:layout_y="45px">
+                      <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="-61px" android:layout_width="705px" android:layout_x="7px" android:layout_y="45px" android:rowCount="5">
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="0" android:layout_width="144px" android:layout_x="7px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="69px" android:layout_x="45px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="144px" android:layout_x="7px" android:layout_y="45px" android:text="Home"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="1" android:layout_width="142px" android:layout_x="148px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="70px" android:layout_x="185px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="142px" android:layout_x="148px" android:layout_y="45px" android:text="Accounts"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="2" android:layout_width="143px" android:layout_x="288px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-131px" android:layout_width="101px" android:layout_x="311px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-69px" android:layout_width="143px" android:layout_x="288px" android:layout_y="45px" android:text="Pay Now"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="3" android:layout_width="142px" android:layout_x="429px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="69px" android:layout_x="465px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="142px" android:layout_x="429px" android:layout_y="45px" android:text="Cards"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="4" android:layout_width="142px" android:layout_x="570px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="71px" android:layout_x="605px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="142px" android:layout_x="570px" android:layout_y="45px" android:text="Services"/>
+                        </android.view.View>
+                      </android.widget.ListView>
+                    </android.view.View>
+                  </android.view.View>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+            <android.widget.TextView android:enabled="true" android:id="@blockingDiv" android:layout_height="0px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1020px"/>
+            <android.widget.TextView android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+            <android.view.View android:enabled="true" android:layout_height="377px" android:layout_width="667px" android:layout_x="26px" android:layout_y="590px">
+              <android.widget.TextView android:enabled="true" android:layout_height="92px" android:layout_width="630px" android:layout_x="45px" android:layout_y="590px" android:text="IDBI Bank"/>
+              <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="630px" android:layout_x="45px" android:layout_y="736px" android:text="Your Session is Timeout."/>
+              <android.view.View android:enabled="true" android:layout_height="21px" android:layout_width="23px" android:layout_x="575px" android:layout_y="802px">
+                <android.widget.TextView android:enabled="true" android:layout_height="21px" android:layout_width="23px" android:layout_x="575px" android:layout_y="802px"/>
+              </android.view.View>
+              <android.view.View android:enabled="true" android:layout_height="210px" android:layout_width="667px" android:layout_x="26px" android:layout_y="757px">
+                <android.view.View android:enabled="true" android:layout_height="135px" android:layout_width="293px" android:layout_x="213px" android:layout_y="795px">
+                  <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:focused="true" android:layout_height="79px" android:layout_width="292px" android:layout_x="223px" android:layout_y="851px" android:text="OK"/>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+          </android.view.View>
+        </android.webkit.WebView>
+      </android.webkit.WebView>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+  <android.view.View android:enabled="true" android:id="@android:id/statusBarBackground" android:layout_height="45px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px"/>
+  <android.view.View android:enabled="true" android:id="@android:id/navigationBarBackground" android:layout_height="90px" android:layout_width="720px" android:layout_x="0px" android:layout_y="1510px"/>
+</android.widget.FrameLayout>

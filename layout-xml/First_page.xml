@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="1600px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="1510px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px">
+    <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="1465px" android:layout_width="720px" android:layout_x="0px" android:layout_y="45px">
+      <android.webkit.WebView android:enabled="true" android:layout_height="1465px" android:layout_width="720px" android:layout_x="0px" android:layout_y="45px">
+        <android.webkit.WebView android:enabled="true" android:focusable="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px" android:text="IDBICorp">
+          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+            <android.view.View android:enabled="true" android:id="@contentData" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+              <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                <android.view.View android:enabled="true" android:layout_height="114px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="-721px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px">
+                      <android.view.View android:enabled="true" android:id="@mySidenav" android:layout_height="564px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px">
+                        <android.view.View android:enabled="true" android:layout_height="86px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px">
+                          <android.widget.TextView android:enabled="true" android:layout_height="69px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px" android:text="Hi I MASTER !"/>
+                          <android.view.View android:clickable="true" android:contentDescription="menu" android:enabled="true" android:focusable="true" android:layout_height="91px" android:layout_width="99px" android:layout_x="-819px" android:layout_y="45px">
+                            <android.widget.Image android:enabled="true" android:layout_height="64px" android:layout_width="64px" android:layout_x="-800px" android:layout_y="61px" android:text="menu"/>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.widget.TabWidget android:enabled="true" android:id="@accordion" android:layout_height="474px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="135px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-1" android:layout_height="77px" android:layout_width="578px" android:layout_x="-1314px" android:layout_y="151px" android:text="My Favourites"/>
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-3" android:layout_height="75px" android:layout_width="578px" android:layout_x="-1314px" android:layout_y="225px" android:text="What's New"/>
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-5" android:layout_height="75px" android:layout_width="578px" android:layout_x="-1314px" android:layout_y="298px" android:text="Banners/Campaign"/>
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-7" android:layout_height="77px" android:layout_width="578px" android:layout_x="-1314px" android:layout_y="369px" android:text="Important Links"/>
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-9" android:layout_height="75px" android:layout_width="578px" android:layout_x="-1314px" android:layout_y="442px" android:text="Calculators"/>
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-11" android:layout_height="75px" android:layout_width="578px" android:layout_x="-1314px" android:layout_y="515px" android:text="Language"/>
+                        </android.widget.TabWidget>
+                      </android.view.View>
+                    </android.view.View>
+                    <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="-721px" android:layout_y="45px"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_height="43px" android:layout_width="49px" android:layout_x="35px" android:layout_y="86px">
+                    <android.widget.Image android:enabled="true" android:layout_height="35px" android:layout_width="49px" android:layout_x="35px" android:layout_y="86px" android:text="menu"/>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:id="@main" android:layout_height="0px" android:layout_width="49px" android:layout_x="35px" android:layout_y="127px"/>
+                  <android.widget.Image android:enabled="true" android:layout_height="75px" android:layout_width="225px" android:layout_x="247px" android:layout_y="63px" android:text="menu"/>
+                  <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="69px" android:layout_width="154px" android:layout_x="549px" android:layout_y="75px" android:rowCount="2">
+                    <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="69px" android:layout_row="0" android:layout_width="75px" android:layout_x="549px" android:layout_y="75px">
+                      <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="49px" android:layout_x="562px" android:layout_y="80px" android:text="info"/>
+                    </android.view.View>
+                    <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="69px" android:layout_row="1" android:layout_width="73px" android:layout_x="630px" android:layout_y="75px">
+                      <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="49px" android:layout_x="641px" android:layout_y="80px" android:text="faq"/>
+                    </android.view.View>
+                  </android.widget.ListView>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.widget.TextView android:enabled="true" android:layout_height="111px" android:layout_width="649px" android:layout_x="35px" android:layout_y="211px" android:text="Good Afternoon I MASTER"/>
+                  <android.view.View android:enabled="true" android:id="@loginId" android:layout_height="255px" android:layout_width="721px" android:layout_x="0px" android:layout_y="358px">
+                    <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="255px" android:layout_width="721px" android:layout_x="0px" android:layout_y="358px" android:rowCount="2">
+                      <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="96px" android:layout_row="0" android:layout_width="667px" android:layout_x="26px" android:layout_y="376px">
+                        <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="667px" android:layout_x="26px" android:layout_y="376px">
+                          <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="667px" android:layout_x="26px" android:layout_y="376px" android:text="XXXXXX609"/>
+                        </android.view.View>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="96px" android:layout_row="1" android:layout_width="667px" android:layout_x="26px" android:layout_y="489px">
+                        <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="667px" android:layout_x="26px" android:layout_y="489px">
+                          <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="667px" android:layout_x="26px" android:layout_y="489px">
+                            <android.widget.EditText android:clickable="true" android:editable="true" android:enabled="true" android:focusable="true" android:hint="Enter 4 digit MPIN" android:id="@logingMpin" android:inputType="phone" android:layout_height="96px" android:layout_width="473px" android:layout_x="123px" android:layout_y="489px"/>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.widget.ListView>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="290px" android:layout_width="721px" android:layout_x="0px" android:layout_y="358px">
+                    <android.view.View android:clickable="true" android:contentDescription="Activate App" android:enabled="true" android:focusable="true" android:layout_height="33px" android:layout_width="133px" android:layout_x="219px" android:layout_y="615px">
+                      <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="133px" android:layout_x="219px" android:layout_y="615px" android:text="Activate App"/>
+                    </android.view.View>
+                    <android.widget.TextView android:enabled="true" android:layout_height="37px" android:layout_width="30px" android:layout_x="348px" android:layout_y="611px" android:text=" / "/>
+                    <android.view.View android:clickable="true" android:contentDescription="Reset MPIN" android:enabled="true" android:focusable="true" android:layout_height="33px" android:layout_width="124px" android:layout_x="376px" android:layout_y="615px">
+                      <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="124px" android:layout_x="376px" android:layout_y="615px" android:text="Reset MPIN"/>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="92px" android:layout_width="91px" android:layout_x="315px" android:layout_y="740px" android:text="Open Saving Account"/>
+                  <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="721px" android:layout_x="0px" android:layout_y="856px" android:text="Open Saving Account"/>
+                  <android.view.View android:enabled="true" android:layout_height="245px" android:layout_width="723px" android:layout_x="-131px" android:layout_y="943px">
+                    <android.view.View android:enabled="true" android:layout_height="3px" android:layout_width="208px" android:layout_x="275px" android:layout_y="943px"/>
+                    <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="92px" android:layout_width="94px" android:layout_x="183px" android:layout_y="1038px" android:text="Scan And Pay"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="723px" android:layout_x="-131px" android:layout_y="1155px" android:text="Scan &amp; Pay"/>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="150px" android:layout_width="362px" android:layout_x="322px" android:layout_y="1038px">
+                    <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="94px" android:layout_width="92px" android:layout_x="457px" android:layout_y="1038px" android:text="Mpassbook"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="362px" android:layout_x="322px" android:layout_y="1156px" android:text="mPassbook"/>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1443px" android:text="App Ver 3.2"/>
+                  <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="420px" android:layout_width="721px" android:layout_x="0px" android:layout_y="660px">
+                      <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="62px" android:layout_width="63px" android:layout_x="615px" android:layout_y="436px"/>
+                      <android.view.View android:enabled="true" android:layout_height="422px" android:layout_width="667px" android:layout_x="26px" android:layout_y="414px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="94px" android:layout_width="627px" android:layout_x="46px" android:layout_y="416px" android:text="Login"/>
+                        <android.widget.TextView android:enabled="true" android:layout_height="41px" android:layout_width="627px" android:layout_x="46px" android:layout_y="545px" android:text="Enter your login credential to continue."/>
+                        <android.view.View android:enabled="true" android:id="@loginId" android:layout_height="210px" android:layout_width="663px" android:layout_x="28px" android:layout_y="626px">
+                          <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="210px" android:layout_width="663px" android:layout_x="28px" android:layout_y="626px" android:rowCount="1">
+                            <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="125px" android:layout_row="0" android:layout_width="663px" android:layout_x="28px" android:layout_y="626px">
+                              <android.view.View android:enabled="true" android:layout_height="125px" android:layout_width="663px" android:layout_x="28px" android:layout_y="626px">
+                                <android.view.View android:enabled="true" android:layout_height="125px" android:layout_width="663px" android:layout_x="28px" android:layout_y="626px">
+                                  <android.widget.EditText android:clickable="true" android:editable="true" android:enabled="true" android:focusable="true" android:hint="Enter 4 digit MPIN" android:id="@logingMpin" android:inputType="phone" android:layout_height="97px" android:layout_width="470px" android:layout_x="135px" android:layout_y="626px"/>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.view.View>
+                          </android.widget.ListView>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                    <android.widget.TextView android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+                  </android.view.View>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:layout_height="-108px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1620px">
+                  <android.view.View android:enabled="true" android:layout_height="-108px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1620px">
+                    <android.widget.TextView android:enabled="true" android:layout_height="-145px" android:layout_width="630px" android:layout_x="45px" android:layout_y="1657px" android:text="Cust ID"/>
+                    <android.view.View android:clickable="true" android:contentDescription="javascript:void(0);" android:enabled="true" android:focusable="true" android:layout_height="-145px" android:layout_width="48px" android:layout_x="645px" android:layout_y="1657px"/>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="-1793px" android:layout_width="721px" android:layout_x="0px" android:layout_y="3305px">
+                    <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="-218px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1730px"/>
+                  </android.view.View>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+            <android.widget.TextView android:enabled="true" android:id="@blockingDiv" android:layout_height="-100px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1612px"/>
+            <android.widget.TextView android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+            <android.view.View android:enabled="true" android:layout_height="623px" android:layout_width="667px" android:layout_x="26px" android:layout_y="590px">
+              <android.widget.TextView android:enabled="true" android:layout_height="94px" android:layout_width="630px" android:layout_x="45px" android:layout_y="590px" android:text="IDBI Mobile Application"/>
+              <android.widget.TextView android:enabled="true" android:layout_height="120px" android:layout_width="630px" android:layout_x="45px" android:layout_y="738px" android:text="Your device is not secured with Login PIN/ Pattern, Touch ID or Face ID. Please secure your device to access the application."/>
+              <android.view.View android:enabled="true" android:layout_height="22px" android:layout_width="23px" android:layout_x="575px" android:layout_y="881px">
+                <android.widget.TextView android:enabled="true" android:layout_height="22px" android:layout_width="23px" android:layout_x="575px" android:layout_y="881px"/>
+              </android.view.View>
+              <android.view.View android:enabled="true" android:layout_height="377px" android:layout_width="667px" android:layout_x="26px" android:layout_y="836px">
+                <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="113px" android:layout_width="611px" android:layout_x="60px" android:layout_y="931px" android:text="I Accept the Risk and provide my consent to proceed"/>
+                <android.view.View android:enabled="true" android:layout_height="135px" android:layout_width="293px" android:layout_x="213px" android:layout_y="1040px">
+                  <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:focused="true" android:layout_height="79px" android:layout_width="292px" android:layout_x="223px" android:layout_y="1096px" android:text="Exit App"/>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+          </android.view.View>
+        </android.webkit.WebView>
+      </android.webkit.WebView>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+  <android.view.View android:enabled="true" android:id="@android:id/statusBarBackground" android:layout_height="45px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px"/>
+  <android.view.View android:enabled="true" android:id="@android:id/navigationBarBackground" android:layout_height="90px" android:layout_width="720px" android:layout_x="0px" android:layout_y="1510px"/>
+</android.widget.FrameLayout>

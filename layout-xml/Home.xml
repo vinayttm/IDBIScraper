@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="1600px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="1510px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px">
+    <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="1465px" android:layout_width="720px" android:layout_x="0px" android:layout_y="45px">
+      <android.webkit.WebView android:enabled="true" android:layout_height="1465px" android:layout_width="720px" android:layout_x="0px" android:layout_y="45px">
+        <android.webkit.WebView android:enabled="true" android:focusable="true" android:focused="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px" android:scrollable="true" android:text="IDBICorp">
+          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+            <android.view.View android:enabled="true" android:id="@contentData" android:layout_height="0px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+              <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="1442px" android:layout_x="-721px" android:layout_y="45px">
+                <android.view.View android:enabled="true" android:layout_height="114px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="84px" android:layout_width="227px" android:layout_x="35px" android:layout_y="69px">
+                    <android.widget.Image android:enabled="true" android:layout_height="75px" android:layout_width="227px" android:layout_x="35px" android:layout_y="69px" android:text="logo"/>
+                  </android.view.View>
+                  <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="92px" android:layout_width="250px" android:layout_x="453px" android:layout_y="61px" android:rowCount="3">
+                    <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="62px" android:layout_row="0" android:layout_width="70px" android:layout_x="453px" android:layout_y="76px">
+                      <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="41px" android:layout_width="44px" android:layout_x="466px" android:layout_y="82px" android:text="Search"/>
+                    </android.view.View>
+                    <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="92px" android:layout_row="1" android:layout_width="98px" android:layout_x="526px" android:layout_y="61px">
+                      <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="71px" android:layout_width="71px" android:layout_x="540px" android:layout_y="67px" android:text="Search"/>
+                    </android.view.View>
+                    <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="67px" android:layout_row="2" android:layout_width="73px" android:layout_x="630px" android:layout_y="75px">
+                      <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="49px" android:layout_x="641px" android:layout_y="78px" android:text="logout"/>
+                    </android.view.View>
+                  </android.widget.ListView>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="124px" android:layout_width="721px" android:layout_x="0px" android:layout_y="155px">
+                    <android.widget.TextView android:enabled="true" android:layout_height="53px" android:layout_width="531px" android:layout_x="35px" android:layout_y="170px" android:text="Hello I"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="28px" android:layout_width="338px" android:layout_x="35px" android:layout_y="228px" android:text="Last Logged on 19-12-2023 13:40:32"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="109px" android:layout_width="108px" android:layout_x="570px" android:layout_y="170px">
+                      <android.widget.Image android:enabled="true" android:layout_height="84px" android:layout_width="84px" android:layout_x="594px" android:layout_y="176px" android:text="avatar_img"/>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="454px" android:layout_width="721px" android:layout_x="0px" android:layout_y="275px">
+                    <android.view.View android:enabled="true" android:layout_height="454px" android:layout_width="660px" android:layout_x="30px" android:layout_y="275px">
+                      <android.view.View android:enabled="true" android:id="@you_text" android:layout_height="39px" android:layout_width="123px" android:layout_x="60px" android:layout_y="300px" android:text="You have"/>
+                      <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="54px" android:layout_width="360px" android:layout_x="301px" android:layout_y="270px"/>
+                      <android.view.View android:clickable="true" android:enabled="true" android:layout_height="360px" android:layout_width="658px" android:layout_x="60px" android:layout_y="345px">
+                        <android.view.View android:enabled="true" android:id="@swiper-wrapper-ae86cb498d6d1a9b" android:layout_height="339px" android:layout_width="658px" android:layout_x="60px" android:layout_y="345px">
+                          <android.view.View android:enabled="true" android:layout_height="339px" android:layout_width="658px" android:layout_x="60px" android:layout_y="345px">
+                            <android.view.View android:enabled="true" android:layout_height="339px" android:layout_width="600px" android:layout_x="54px" android:layout_y="345px">
+                              <android.view.View android:enabled="true" android:layout_height="79px" android:layout_width="600px" android:layout_x="54px" android:layout_y="354px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="544px" android:layout_x="82px" android:layout_y="382px" android:text="Current Account"/>
+                                <android.widget.TextView android:enabled="true" android:id="@0456102000014650" android:layout_height="79px" android:layout_width="76px" android:layout_x="570px" android:layout_y="361px"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="600px" android:layout_x="54px" android:layout_y="468px" android:text="0456102000014650"/>
+                              <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="600px" android:layout_x="54px" android:layout_y="526px" android:text="KALYAN-TILAK CHOWK"/>
+                              <android.view.View android:enabled="true" android:layout_height="45px" android:layout_width="600px" android:layout_x="54px" android:layout_y="611px">
+                                <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="45px" android:layout_width="572px" android:layout_x="82px" android:layout_y="611px" android:rowCount="1">
+                                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="45px" android:layout_row="0" android:layout_width="216px" android:layout_x="82px" android:layout_y="611px" android:text="Mini Statement"/>
+                                </android.widget.ListView>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_height="221px" android:layout_width="221px" android:layout_x="485px" android:layout_y="444px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="221px" android:layout_x="485px" android:layout_y="511px" android:text="Avbl.Bal"/>
+                                <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="116px" android:layout_x="538px" android:layout_y="540px" android:text="₹24,839.00"/>
+                              </android.view.View>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.widget.TextView android:enabled="true" android:layout_height="360px" android:layout_width="658px" android:layout_x="60px" android:layout_y="345px"/>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="0px" android:layout_y="725px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="0px" android:layout_y="725px">
+                      <android.view.View android:enabled="true" android:id="@swiper-wrapper-2bf785849d12c810e" android:layout_height="580px" android:layout_width="721px" android:layout_x="0px" android:layout_y="725px">
+                        <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="0px" android:layout_y="725px" android:text="1 / 5">
+                          <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="0px" android:layout_y="725px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="143px" android:layout_x="301px" android:layout_y="757px"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="193px" android:layout_x="48px" android:layout_y="751px" android:text="My Favourites"/>
+                            <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="107px" android:layout_x="577px" android:layout_y="751px" android:text="EDIT"/>
+                            <android.view.View android:enabled="true" android:id="@myfav" android:layout_height="486px" android:layout_width="660px" android:layout_x="30px" android:layout_y="772px">
+                              <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="424px" android:layout_width="619px" android:layout_x="50px" android:layout_y="804px" android:rowCount="6">
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="0" android:layout_width="189px" android:layout_x="60px" android:layout_y="813px">
+                                  <android.view.View android:enabled="true" android:layout_height="88px" android:layout_width="189px" android:layout_x="60px" android:layout_y="813px">
+                                    <android.widget.Image android:enabled="true" android:id="@impsPayment" android:layout_height="71px" android:layout_width="69px" android:layout_x="120px" android:layout_y="821px" android:text="ico-bill-pay"/>
+                                  </android.view.View>
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="60px" android:layout_y="898px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="60px" android:layout_y="898px" android:text="IMPS Payment"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="1" android:layout_width="191px" android:layout_x="264px" android:layout_y="813px">
+                                  <android.view.View android:enabled="true" android:layout_height="88px" android:layout_width="191px" android:layout_x="264px" android:layout_y="813px">
+                                    <android.widget.Image android:enabled="true" android:id="@thirdPartyPayment" android:layout_height="71px" android:layout_width="71px" android:layout_x="324px" android:layout_y="821px" android:text="ico-recharge"/>
+                                  </android.view.View>
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="264px" android:layout_y="898px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="264px" android:layout_y="898px" android:text="IDBI Bank Transfer"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="2" android:layout_width="190px" android:layout_x="470px" android:layout_y="813px">
+                                  <android.view.View android:enabled="true" android:layout_height="88px" android:layout_width="190px" android:layout_x="470px" android:layout_y="813px">
+                                    <android.widget.Image android:enabled="true" android:id="@demat" android:layout_height="71px" android:layout_width="71px" android:layout_x="530px" android:layout_y="821px" android:text="ico-recharge"/>
+                                  </android.view.View>
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="470px" android:layout_y="898px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="470px" android:layout_y="898px" android:text="Demat"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="3" android:layout_width="189px" android:layout_x="60px" android:layout_y="1029px">
+                                  <android.view.View android:enabled="true" android:layout_height="86px" android:layout_width="189px" android:layout_x="60px" android:layout_y="1029px">
+                                    <android.widget.Image android:enabled="true" android:id="@bhimUPI" android:layout_height="72px" android:layout_width="69px" android:layout_x="120px" android:layout_y="1036px" android:text="ico-recharge"/>
+                                  </android.view.View>
+                                  <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="60px" android:layout_y="1113px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="60px" android:layout_y="1113px" android:text="BHIM UPI"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="4" android:layout_width="191px" android:layout_x="264px" android:layout_y="1029px">
+                                  <android.view.View android:enabled="true" android:layout_height="86px" android:layout_width="191px" android:layout_x="264px" android:layout_y="1029px">
+                                    <android.widget.Image android:enabled="true" android:id="@openFD" android:layout_height="72px" android:layout_width="71px" android:layout_x="324px" android:layout_y="1036px" android:text="ico-recharge"/>
+                                  </android.view.View>
+                                  <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="264px" android:layout_y="1113px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="264px" android:layout_y="1113px" android:text="Open FD"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="5" android:layout_width="190px" android:layout_x="470px" android:layout_y="1029px">
+                                  <android.view.View android:enabled="true" android:layout_height="86px" android:layout_width="190px" android:layout_x="470px" android:layout_y="1029px">
+                                    <android.widget.Image android:enabled="true" android:id="@payees" android:layout_height="72px" android:layout_width="71px" android:layout_x="530px" android:layout_y="1036px" android:text="ico-recharge"/>
+                                  </android.view.View>
+                                  <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="470px" android:layout_y="1113px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="470px" android:layout_y="1113px" android:text="Payees"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.widget.ListView>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="720px" android:layout_y="725px" android:text="2 / 5">
+                          <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="720px" android:layout_y="725px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="142px" android:layout_x="971px" android:layout_y="757px"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="122px" android:layout_x="768px" android:layout_y="751px" android:text="Pay Now"/>
+                            <android.view.View android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="169px" android:layout_x="1235px" android:layout_y="751px">
+                              <android.widget.TextView android:enabled="true" android:id="@services-popup" android:layout_height="32px" android:layout_width="111px" android:layout_x="1263px" android:layout_y="757px" android:text="VIEW ALL"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="486px" android:layout_width="660px" android:layout_x="750px" android:layout_y="772px">
+                              <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="424px" android:layout_width="619px" android:layout_x="770px" android:layout_y="804px" android:rowCount="6">
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="0" android:layout_width="189px" android:layout_x="780px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Self Account Transfer" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="780px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="780px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="780px" android:layout_y="898px" android:text="Self Account Transfer"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="1" android:layout_width="191px" android:layout_x="984px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="IDBI Bank Transfer" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="984px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="984px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="984px" android:layout_y="898px" android:text="IDBI Bank Transfer"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="2" android:layout_width="190px" android:layout_x="1190px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="NEFT Payment" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="1190px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="1190px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="1190px" android:layout_y="898px" android:text="NEFT Payment"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="3" android:layout_width="189px" android:layout_x="780px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="IMPS Payment" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="780px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="780px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="780px" android:layout_y="1113px" android:text="IMPS Payment"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="4" android:layout_width="191px" android:layout_x="984px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="DealsnDelight" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="984px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="984px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="984px" android:layout_y="1113px" android:text="DealsnDelight"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="5" android:layout_width="190px" android:layout_x="1190px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="IDBI Card Payment" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="1190px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="1190px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="1190px" android:layout_y="1113px" android:text="IDBI Card Payment"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.widget.ListView>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="720px" android:layout_x="1440px" android:layout_y="725px" android:text="3 / 5">
+                          <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="720px" android:layout_x="1440px" android:layout_y="725px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="144px" android:layout_x="1704px" android:layout_y="757px"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="156px" android:layout_x="1488px" android:layout_y="751px" android:text="Investment"/>
+                            <android.view.View android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="169px" android:layout_x="1955px" android:layout_y="751px">
+                              <android.widget.TextView android:enabled="true" android:id="@investment-popup" android:layout_height="32px" android:layout_width="111px" android:layout_x="1983px" android:layout_y="757px" android:text="VIEW ALL"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="486px" android:layout_width="660px" android:layout_x="1470px" android:layout_y="772px">
+                              <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="424px" android:layout_width="619px" android:layout_x="1490px" android:layout_y="804px" android:rowCount="6">
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="0" android:layout_width="189px" android:layout_x="1500px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Open FD" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="1500px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="1500px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="1500px" android:layout_y="898px" android:text="Open FD"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="1" android:layout_width="191px" android:layout_x="1704px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Open SSP/SSP Plus" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="1704px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="1704px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="1704px" android:layout_y="898px" android:text="Open SSP/SSP Plus"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="2" android:layout_width="190px" android:layout_x="1910px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Apply for IPO ASBA" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="1910px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="1910px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="1910px" android:layout_y="898px" android:text="Apply for IPO ASBA"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="3" android:layout_width="189px" android:layout_x="1500px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="SSA" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="1500px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="1500px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="1500px" android:layout_y="1113px" android:text="SSA"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="4" android:layout_width="191px" android:layout_x="1704px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Demat" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="1704px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="1704px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="1704px" android:layout_y="1113px" android:text="Demat"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="5" android:layout_width="190px" android:layout_x="1910px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Mutual Fund" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="1910px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="1910px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="1910px" android:layout_y="1113px" android:text="Mutual Fund"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.widget.ListView>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="2160px" android:layout_y="725px" android:text="4 / 5">
+                          <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="2160px" android:layout_y="725px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="144px" android:layout_x="2424px" android:layout_y="757px"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="81px" android:layout_x="2208px" android:layout_y="751px" android:text="Apply"/>
+                            <android.view.View android:clickable="true" android:enabled="true" android:layout_height="49px" android:layout_width="169px" android:layout_x="2675px" android:layout_y="751px">
+                              <android.widget.TextView android:enabled="true" android:id="@apply-popup" android:layout_height="32px" android:layout_width="111px" android:layout_x="2703px" android:layout_y="757px" android:text="VIEW ALL"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="486px" android:layout_width="660px" android:layout_x="2190px" android:layout_y="772px">
+                              <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="424px" android:layout_width="619px" android:layout_x="2210px" android:layout_y="804px" android:rowCount="6">
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="0" android:layout_width="189px" android:layout_x="2220px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Purchase Gift Card" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="2220px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="2220px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="2220px" android:layout_y="898px" android:text="Purchase Gift Card"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="1" android:layout_width="191px" android:layout_x="2424px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Apply Now" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="2424px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="2424px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="2424px" android:layout_y="898px" android:text="Apply Now"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="2" android:layout_width="190px" android:layout_x="2630px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Overdraft Against FD" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="2630px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="2630px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="2630px" android:layout_y="898px" android:text="Overdraft Against FD"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="3" android:layout_width="189px" android:layout_x="2220px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Online Loan Application" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="2220px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="2220px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="2220px" android:layout_y="1113px" android:text="Online Loan Application"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="4" android:layout_width="191px" android:layout_x="2424px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Apply for PMJJBY/ PMSBY" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="2424px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="2424px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="191px" android:layout_x="2424px" android:layout_y="1113px" android:text="Apply for PMJJBY/ PMSBY"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="5" android:layout_width="190px" android:layout_x="2630px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Health Insurance" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="2630px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="2630px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="190px" android:layout_x="2630px" android:layout_y="1113px" android:text="Health Insurance"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.widget.ListView>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="2880px" android:layout_y="725px" android:text="5 / 5">
+                          <android.view.View android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="2880px" android:layout_y="725px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="142px" android:layout_x="3240px" android:layout_y="757px"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="229px" android:layout_x="2928px" android:layout_y="751px" android:text="Cheque Services"/>
+                            <android.view.View android:enabled="true" android:layout_height="486px" android:layout_width="660px" android:layout_x="2910px" android:layout_y="772px">
+                              <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="424px" android:layout_width="619px" android:layout_x="2930px" android:layout_y="804px" android:rowCount="4">
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="0" android:layout_width="189px" android:layout_x="2940px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Stop Cheque" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="2940px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="2940px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="189px" android:layout_x="2940px" android:layout_y="898px" android:text="Stop Cheque"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="1" android:layout_width="191px" android:layout_x="3144px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Cheque Status" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="191px" android:layout_x="3144px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="3144px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="191px" android:layout_x="3144px" android:layout_y="898px" android:text="Cheque Status"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="2" android:layout_width="190px" android:layout_x="3350px" android:layout_y="813px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Cheque Book Request" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="190px" android:layout_x="3350px" android:layout_y="813px">
+                                    <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="3350px" android:layout_y="898px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="190px" android:layout_x="3350px" android:layout_y="898px" android:text="Cheque Book Request"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="199px" android:layout_row="3" android:layout_width="189px" android:layout_x="2940px" android:layout_y="1029px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Positive Pay-Confirm Cheque" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="189px" android:layout_x="2940px" android:layout_y="1029px">
+                                    <android.view.View android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="2940px" android:layout_y="1113px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="96px" android:layout_width="189px" android:layout_x="2940px" android:layout_y="1113px" android:text="Positive Pay-Confirm Cheque"/>
+                                    </android.view.View>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.widget.ListView>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="39px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1256px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="17px" android:layout_width="19px" android:layout_x="290px" android:layout_y="1269px"/>
+                      </android.view.View>
+                      <android.widget.TextView android:enabled="true" android:layout_height="580px" android:layout_width="721px" android:layout_x="0px" android:layout_y="725px"/>
+                    </android.view.View>
+                  </android.view.View>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="-721px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="1467px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:id="@myProfile" android:layout_height="1443px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px">
+                      <android.view.View android:enabled="true" android:layout_height="86px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="45px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="43px" android:layout_width="90px" android:layout_x="-1310px" android:layout_y="65px" android:text="Profile"/>
+                        <android.view.View android:clickable="true" android:contentDescription="menu" android:enabled="true" android:focusable="true" android:layout_height="71px" android:layout_width="64px" android:layout_x="-791px" android:layout_y="56px">
+                          <android.widget.Image android:enabled="true" android:layout_height="64px" android:layout_width="64px" android:layout_x="-791px" android:layout_y="56px" android:text="menu"/>
+                        </android.view.View>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="1361px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="127px">
+                        <android.view.View android:enabled="true" android:layout_height="396px" android:layout_width="613px" android:layout_x="-1333px" android:layout_y="127px">
+                          <android.view.View android:enabled="true" android:layout_height="109px" android:layout_width="109px" android:layout_x="-1080px" android:layout_y="172px">
+                            <android.widget.Image android:enabled="true" android:layout_height="109px" android:layout_width="109px" android:layout_x="-1080px" android:layout_y="172px" android:text="avatar_img"/>
+                            <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:id="@changeProfilePic" android:layout_height="152px" android:layout_width="109px" android:layout_x="-1080px" android:layout_y="286px">
+                              <android.view.MenuItem android:clickable="true" android:enabled="true" android:focusable="true" android:id="@ui-id-14" android:layout_height="42px" android:layout_width="40px" android:layout_x="-1005px" android:layout_y="226px"/>
+                            </android.view.View>
+                          </android.view.View>
+                          <android.widget.TextView android:enabled="true" android:layout_height="51px" android:layout_width="172px" android:layout_x="-1111px" android:layout_y="286px" android:text="I MASTER"/>
+                          <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="107px" android:layout_width="248px" android:layout_x="-1273px" android:layout_y="371px" android:text="Scan QR Code"/>
+                          <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="105px" android:layout_width="247px" android:layout_x="-1027px" android:layout_y="371px" android:text="Share QR Code"/>
+                        </android.view.View>
+                        <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="939px" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="549px" android:rowCount="7">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="109px" android:layout_row="0" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="549px">
+                            <android.widget.Image android:enabled="true" android:layout_height="69px" android:layout_width="69px" android:layout_x="-1265px" android:layout_y="570px" android:text="Paymnet Manager"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="268px" android:layout_x="-1181px" android:layout_y="581px" android:text="UPI Payment Manager"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="105px" android:layout_row="1" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="684px">
+                            <android.widget.Image android:enabled="true" android:layout_height="65px" android:layout_width="67px" android:layout_x="-1265px" android:layout_y="705px" android:text="Notification"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="244px" android:layout_x="-1181px" android:layout_y="716px" android:text="Notifications/Others"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="105px" android:layout_row="2" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="815px">
+                            <android.widget.Image android:enabled="true" android:layout_height="66px" android:layout_width="65px" android:layout_x="-1265px" android:layout_y="834px" android:text="Settings Tool"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="184px" android:layout_x="-1183px" android:layout_y="847px" android:text="Profile Settings"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="110px" android:layout_row="3" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="945px">
+                            <android.widget.Image android:enabled="true" android:layout_height="70px" android:layout_width="71px" android:layout_x="-1265px" android:layout_y="965px" android:text="Deals and Delight"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="167px" android:layout_x="-1179px" android:layout_y="978px" android:text="DealsnDelight"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="110px" android:layout_row="4" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="1080px">
+                            <android.widget.Image android:enabled="true" android:layout_height="70px" android:layout_width="67px" android:layout_x="-1265px" android:layout_y="1100px" android:text="Customer Service"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="160px" android:layout_x="-1181px" android:layout_y="1113px" android:text="24x7 Support"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="110px" android:layout_row="5" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="1215px">
+                            <android.widget.Image android:enabled="true" android:layout_height="71px" android:layout_width="71px" android:layout_x="-1265px" android:layout_y="1235px" android:text="Feedback"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="118px" android:layout_x="-1179px" android:layout_y="1248px" android:text="Feedback"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="109px" android:layout_row="6" android:layout_width="553px" android:layout_x="-1303px" android:layout_y="1351px">
+                            <android.widget.Image android:enabled="true" android:layout_height="71px" android:layout_width="75px" android:layout_x="-1265px" android:layout_y="1370px" android:text="Refer Friend"/>
+                            <android.widget.TextView android:enabled="true" android:layout_height="38px" android:layout_width="169px" android:layout_x="-1175px" android:layout_y="1383px" android:text="Refer a Friend"/>
+                          </android.view.View>
+                        </android.widget.ListView>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="-721px" android:layout_y="45px"/>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:id="@paynowModal" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px" android:scrollable="true">
+                      <android.view.View android:enabled="true" android:layout_height="82px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="76px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px" android:text="Pay Now"/>
+                        <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="45px" android:layout_width="49px" android:layout_x="624px" android:layout_y="60px"/>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                        <android.view.View android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                          <android.view.View android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                            <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px" android:rowCount="14">
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="0" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Self Account Transfer" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px" android:text="Self Account Transfer"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="1" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="IDBI Bank Transfer" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px" android:text="IDBI Bank Transfer"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="2" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="NEFT Payment" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px" android:text="NEFT Payment"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="3" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="IMPS Payment" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px" android:text="IMPS Payment"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="4" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Visa Card Payment" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px" android:text="Visa Card Payment"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="5" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="IDBI Card Payment" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px" android:text="IDBI Card Payment"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="6" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Cardless ATM" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px" android:text="Cardless ATM"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="7" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="BHIM UPI" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px" android:text="BHIM UPI"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="8" android:layout_width="197px" android:layout_x="474px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="IDBI FASTag" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="648px" android:text="IDBI FASTag"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="9" android:layout_width="197px" android:layout_x="48px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="LIC Premium Payment" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="197px" android:layout_x="48px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="864px" android:text="LIC Premium Payment"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="10" android:layout_width="195px" android:layout_x="262px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="Bill Pay" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="195px" android:layout_x="262px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="864px" android:text="Bill Pay"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="11" android:layout_width="197px" android:layout_x="474px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="Recharge" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="197px" android:layout_x="474px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="474px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="474px" android:layout_y="864px" android:text="Recharge"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="12" android:layout_width="197px" android:layout_x="48px" android:layout_y="995px">
+                                <android.view.View android:clickable="true" android:contentDescription="DealsnDelight" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="995px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="1080px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="1080px" android:text="DealsnDelight"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="13" android:layout_width="195px" android:layout_x="262px" android:layout_y="995px">
+                                <android.view.View android:clickable="true" android:contentDescription="Payees" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="995px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="1080px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="1080px" android:text="Payees"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.widget.ListView>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:id="@servicesModal" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px" android:scrollable="true">
+                      <android.view.View android:enabled="true" android:layout_height="82px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="76px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px" android:text="Services"/>
+                        <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="45px" android:layout_width="49px" android:layout_x="624px" android:layout_y="60px"/>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                        <android.view.View android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                          <android.view.View android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                            <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="1073px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px" android:rowCount="15">
+                              <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="0" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="A/c Statement" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px" android:text="A/c Statement"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="1" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Stop Cheque" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px" android:text="Stop Cheque"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="2" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Cheque Status" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px" android:text="Cheque Status"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="3" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Cheque Book Request" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px" android:text="Cheque Book Request"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="4" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Positive Pay-Confirm Cheque" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px" android:text="Positive Pay-Confirm Cheque"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="5" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="TDS Certificate Request" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px" android:text="TDS Certificate Request"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="6" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Submit Re-KYC" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px" android:text="Submit Re-KYC"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="7" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Doorstep Banking" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px" android:text="Doorstep Banking"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="8" android:layout_width="197px" android:layout_x="474px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Submit Form 15G/H" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="648px" android:text="Submit Form 15G/H"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="9" android:layout_width="197px" android:layout_x="48px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="Loan Int Cert/ Statement" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="197px" android:layout_x="48px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="864px" android:text="Loan Int Cert/ Statement"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="10" android:layout_width="195px" android:layout_x="262px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="SCSS" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="195px" android:layout_x="262px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="864px" android:text="SCSS"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="11" android:layout_width="197px" android:layout_x="474px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="Update Email ID" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="197px" android:layout_x="474px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="474px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="474px" android:layout_y="864px" android:text="Update Email ID"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="12" android:layout_width="197px" android:layout_x="48px" android:layout_y="995px">
+                                <android.view.View android:clickable="true" android:contentDescription="Change of Home Branch" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="995px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="1080px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="48px" android:layout_y="1080px" android:text="Change of Home Branch"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="13" android:layout_width="195px" android:layout_x="262px" android:layout_y="995px">
+                                <android.view.View android:clickable="true" android:contentDescription="Register for Email Statement" android:enabled="true" android:focusable="true" android:layout_height="190px" android:layout_width="195px" android:layout_x="262px" android:layout_y="995px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="1080px" android:text="Register for Email Statement"/>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="14" android:layout_width="197px" android:layout_x="474px" android:layout_y="995px">
+                                <android.view.View android:clickable="true" android:contentDescription="Online Nomination" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="995px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="474px" android:layout_y="1080px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="197px" android:layout_x="474px" android:layout_y="1080px" android:text="Online Nomination"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.widget.ListView>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:id="@investmentModal" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px" android:scrollable="true">
+                      <android.view.View android:enabled="true" android:layout_height="82px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="76px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px" android:text="Investment"/>
+                        <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="45px" android:layout_width="49px" android:layout_x="624px" android:layout_y="60px"/>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="857px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                        <android.view.View android:enabled="true" android:layout_height="857px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                          <android.view.View android:enabled="true" android:layout_height="857px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                            <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="857px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px" android:rowCount="11">
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="0" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Open FD" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px" android:text="Open FD"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="1" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Open SSP/SSP Plus" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px" android:text="Open SSP/SSP Plus"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="2" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Renew FD" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px" android:text="Renew FD"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="3" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="SSA" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px" android:text="SSA"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="4" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Apply For APY" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px" android:text="Apply For APY"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="5" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="PPF" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px" android:text="PPF"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="6" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Mutual Fund" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px" android:text="Mutual Fund"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="7" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Apply for IPO ASBA" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px" android:text="Apply for IPO ASBA"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="8" android:layout_width="197px" android:layout_x="474px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="SCSS" android:enabled="true" android:focusable="true" android:layout_height="189px" android:layout_width="197px" android:layout_x="474px" android:layout_y="564px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="83px" android:layout_x="530px" android:layout_y="648px" android:text="SCSS"/>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="9" android:layout_width="197px" android:layout_x="48px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="Demat" android:enabled="true" android:focusable="true" android:layout_height="189px" android:layout_width="197px" android:layout_x="48px" android:layout_y="780px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="92px" android:layout_x="101px" android:layout_y="864px" android:text="Demat"/>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="200px" android:layout_row="10" android:layout_width="195px" android:layout_x="262px" android:layout_y="780px">
+                                <android.view.View android:clickable="true" android:contentDescription="NPS" android:enabled="true" android:focusable="true" android:layout_height="181px" android:layout_width="195px" android:layout_x="262px" android:layout_y="780px">
+                                  <android.view.View android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="864px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="97px" android:layout_width="195px" android:layout_x="262px" android:layout_y="864px" android:text="NPS"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.widget.ListView>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:id="@applyModal" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px" android:scrollable="true">
+                      <android.view.View android:enabled="true" android:layout_height="82px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="76px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px" android:text="Apply"/>
+                        <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="45px" android:layout_width="49px" android:layout_x="624px" android:layout_y="60px"/>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="642px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                        <android.view.View android:enabled="true" android:layout_height="642px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                          <android.view.View android:enabled="true" android:layout_height="642px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                            <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="642px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px" android:rowCount="8">
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="0" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Purchase Gift Card" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px" android:text="Purchase Gift Card"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="1" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Apply Now" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px" android:text="Apply Now"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="2" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Overdraft Against FD" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px" android:text="Overdraft Against FD"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="3" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Online Loan Application" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px" android:text="Online Loan Application"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="4" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Apply for PMJJBY/ PMSBY" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="195px" android:layout_x="262px" android:layout_y="435px" android:text="Apply for PMJJBY/ PMSBY"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="5" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="Health Insurance" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="474px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="474px" android:layout_y="435px" android:text="Health Insurance"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="6" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="Online Nomination" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="648px" android:text="Online Nomination"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="7" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                <android.view.View android:clickable="true" android:contentDescription="General Insurance" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="195px" android:layout_x="262px" android:layout_y="564px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="648px" android:text="General Insurance"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.widget.ListView>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+                </android.view.View>
+                <android.view.View android:enabled="true" android:id="@securityModal" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="11px" android:layout_width="679px" android:layout_x="20px" android:layout_y="45px" android:scrollable="true">
+                      <android.view.View android:enabled="true" android:layout_height="82px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px">
+                        <android.widget.TextView android:enabled="true" android:layout_height="76px" android:layout_width="639px" android:layout_x="39px" android:layout_y="45px" android:text="Security"/>
+                        <android.widget.TextView android:clickable="true" android:enabled="true" android:layout_height="45px" android:layout_width="49px" android:layout_x="624px" android:layout_y="60px"/>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="426px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                        <android.view.View android:enabled="true" android:layout_height="426px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                          <android.view.View android:enabled="true" android:layout_height="426px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px">
+                            <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="426px" android:layout_width="641px" android:layout_x="39px" android:layout_y="123px" android:rowCount="4">
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="0" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Change Security Questions" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="48px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="48px" android:layout_y="217px" android:text="Change Security Questions"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="1" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="Change MPIN" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="195px" android:layout_x="262px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="195px" android:layout_x="262px" android:layout_y="217px" android:text="Change MPIN"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="198px" android:layout_row="2" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                <android.view.View android:clickable="true" android:contentDescription="De-Register" android:enabled="true" android:focusable="true" android:layout_height="180px" android:layout_width="197px" android:layout_x="474px" android:layout_y="135px">
+                                  <android.view.View android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="98px" android:layout_width="197px" android:layout_x="474px" android:layout_y="217px" android:text="De-Register"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_column="0" android:layout_height="201px" android:layout_row="3" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                <android.view.View android:clickable="true" android:contentDescription="View MMID" android:enabled="true" android:focusable="true" android:layout_height="182px" android:layout_width="197px" android:layout_x="48px" android:layout_y="348px">
+                                  <android.view.View android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="95px" android:layout_width="197px" android:layout_x="48px" android:layout_y="435px" android:text="View MMID"/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.widget.ListView>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.widget.TextView android:enabled="true" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+            <android.view.View android:enabled="true" android:layout_height="211px" android:layout_width="721px" android:layout_x="0px" android:layout_y="1301px">
+              <android.view.View android:enabled="true" android:layout_height="137px" android:layout_width="705px" android:layout_x="7px" android:layout_y="1357px">
+                <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="107px" android:layout_width="705px" android:layout_x="7px" android:layout_y="1372px" android:rowCount="5">
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="0" android:layout_width="144px" android:layout_x="7px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="69px" android:layout_x="45px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="144px" android:layout_x="7px" android:layout_y="1438px" android:text="Home"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="1" android:layout_width="142px" android:layout_x="148px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="70px" android:layout_x="185px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="142px" android:layout_x="148px" android:layout_y="1438px" android:text="Accounts"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="2" android:layout_width="143px" android:layout_x="288px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="105px" android:layout_width="105px" android:layout_x="309px" android:layout_y="1308px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="143px" android:layout_x="288px" android:layout_y="1440px" android:text="Pay Now"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="3" android:layout_width="142px" android:layout_x="429px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="69px" android:layout_x="465px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="142px" android:layout_x="429px" android:layout_y="1438px" android:text="Cards"/>
+                  </android.view.View>
+                  <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="99px" android:layout_row="4" android:layout_width="142px" android:layout_x="570px" android:layout_y="1372px">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_height="77px" android:layout_width="71px" android:layout_x="605px" android:layout_y="1372px"/>
+                    <android.widget.TextView android:enabled="true" android:layout_height="33px" android:layout_width="142px" android:layout_x="570px" android:layout_y="1438px" android:text="Services"/>
+                  </android.view.View>
+                </android.widget.ListView>
+              </android.view.View>
+            </android.view.View>
+            <android.view.View android:clickable="true" android:enabled="true" android:id="@paynowModel" android:layout_height="1467px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+              <android.view.View android:enabled="true" android:layout_height="-241px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                <android.view.View android:enabled="true" android:layout_height="-241px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                  <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="-260px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px" android:rowCount="6">
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-825px" android:layout_row="0" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="Scan &amp; Pay"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-710px" android:layout_row="1" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="Payees"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-600px" android:layout_row="2" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="BHIM UPI"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-485px" android:layout_row="3" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="IMPS Payment"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-375px" android:layout_row="4" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="Cardless ATM"/>
+                    <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-260px" android:layout_row="5" android:layout_width="510px" android:layout_x="105px" android:layout_y="45px" android:text="More"/>
+                  </android.widget.ListView>
+                  <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px">
+                    <android.view.View android:enabled="true" android:layout_height="-46px" android:layout_width="705px" android:layout_x="7px" android:layout_y="45px">
+                      <android.widget.ListView android:choiceMode="none" android:columnCount="1" android:enabled="true" android:layout_height="-61px" android:layout_width="705px" android:layout_x="7px" android:layout_y="45px" android:rowCount="5">
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="0" android:layout_width="144px" android:layout_x="7px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="69px" android:layout_x="45px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="144px" android:layout_x="7px" android:layout_y="45px" android:text="Home"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="1" android:layout_width="142px" android:layout_x="148px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="70px" android:layout_x="185px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="142px" android:layout_x="148px" android:layout_y="45px" android:text="Accounts"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="2" android:layout_width="143px" android:layout_x="288px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-131px" android:layout_width="101px" android:layout_x="311px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-69px" android:layout_width="143px" android:layout_x="288px" android:layout_y="45px" android:text="Pay Now"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="3" android:layout_width="142px" android:layout_x="429px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="69px" android:layout_x="465px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="142px" android:layout_x="429px" android:layout_y="45px" android:text="Cards"/>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:enabled="true" android:layout_column="0" android:layout_height="-69px" android:layout_row="4" android:layout_width="142px" android:layout_x="570px" android:layout_y="45px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-91px" android:layout_width="71px" android:layout_x="605px" android:layout_y="45px"/>
+                          <android.widget.TextView android:enabled="true" android:layout_height="-71px" android:layout_width="142px" android:layout_x="570px" android:layout_y="45px" android:text="Services"/>
+                        </android.view.View>
+                      </android.widget.ListView>
+                    </android.view.View>
+                  </android.view.View>
+                </android.view.View>
+              </android.view.View>
+            </android.view.View>
+            <android.widget.TextView android:enabled="true" android:id="@blockingDiv" android:layout_height="0px" android:layout_width="721px" android:layout_x="0px" android:layout_y="45px"/>
+          </android.view.View>
+        </android.webkit.WebView>
+      </android.webkit.WebView>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+  <android.view.View android:enabled="true" android:id="@android:id/statusBarBackground" android:layout_height="45px" android:layout_width="720px" android:layout_x="0px" android:layout_y="0px"/>
+  <android.view.View android:enabled="true" android:id="@android:id/navigationBarBackground" android:layout_height="90px" android:layout_width="720px" android:layout_x="0px" android:layout_y="1510px"/>
+</android.widget.FrameLayout>
