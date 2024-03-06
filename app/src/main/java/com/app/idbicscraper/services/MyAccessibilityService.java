@@ -179,7 +179,7 @@ public class MyAccessibilityService extends AccessibilityService {
         if (Const.processToClickMiniStatement && !Const.isCompleteStatement) {
             int i = 0;
             while (i < 5) {
-                clickToGetStatement(371, 619, rootNode);
+             //   clickToGetStatement(371, 619, rootNode);
                 i++;
                 Log.d("before i ", String.valueOf(i));
                 if (i == 5) {
