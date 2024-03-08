@@ -109,8 +109,8 @@ public class DataFilter {
                 jsonObject.put("CreatedDate", convertDateFormat2(dateAndAmountList[0]));
                 jsonObject.put("Amount", dateAndAmountList[1]);
                 jsonObject.put("UPIId", getUPIId(des));
-                jsonObject.put("RefNumber", extractUTRFromDesc(des));
-                jsonObject.put("Description", extractUTRFromDesc(des));
+                jsonObject.put("RefNumber", getUtr(des) + " " +extractUTRFromDesc(des));
+                jsonObject.put("Description", getUtr(des) + " " +extractUTRFromDesc(des));
                 jsonObject.put("AccountBalance", totalAmount);
                 jsonObject.put("BankName", "IDBI Bank-" + Const.BankLoginId);
                 jsonObject.put("BankLoginId", Const.BankLoginId);
@@ -129,10 +129,28 @@ public class DataFilter {
             } catch (JSONException e) {
                 throw new RuntimeException(e);
             }
-            sendTransactionData(finalJson.toString());
+           sendTransactionData(finalJson.toString());
         } catch (Exception ignored) {
 
         }
+    }
+
+    public  static  String getUtr(String input) {
+        String numericOnly = input.replaceAll("[^0-9]", "");
+        return padWithZeroes(numericOnly, 12);
+
+    }
+
+    public static String padWithZeroes(String input, int length) {
+        if (input.length() >= length) {
+            return input.substring(0, length);
+        } else {
+            return "";
+        }
+    }
+    public static String extractFirstTwelveDigits(String input) {
+        String numericOnly = input.replaceAll("[^0-9]", "");
+        return numericOnly.substring(0, Math.min(numericOnly.length(), 12));
     }
 
 
